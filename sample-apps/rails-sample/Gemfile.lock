@@ -42,14 +42,14 @@ GEM
       nokogiri (>= 1.5.9)
     method_source (1.0.0)
     minitest (5.17.0)
-    nio4r (2.5.8)
+    nio4r (2.7.0)
     nokogiri (1.14.1-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.14.1-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.14.1-x86_64-linux)
       racc (~> 1.4)
-    puma (5.6.5)
+    puma (6.4.2)
       nio4r (~> 2.0)
     racc (1.6.2)
     rack (2.2.6.2)
@@ -84,7 +84,7 @@ DEPENDENCIES
   actionview (~> 7.0.1)
   judoscale-rails!
   judoscale-ruby!
-  puma (~> 5.0)
+  puma (~> 6.4)
   railties (~> 7.0.1)
 
 BUNDLED WITH
